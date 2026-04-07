@@ -7,9 +7,7 @@
 
 ## About Me
 
-Builder focused on creating structured web content with clean, semantic markup. Active on GitHub since 2022 with a commitment to consistent commit-based development.
-
-> 专注于使用干净、语义化的标记创建结构化网页内容的构建者。自 2022 年起活跃于 GitHub，致力于基于提交的一致性开发。
+Great Cultural Revolution
 
 ## Tech Stack
 
