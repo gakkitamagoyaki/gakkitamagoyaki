@@ -7,7 +7,7 @@
 
 ## About Me
 
-Great Cultural Revolution
+GREAT CULTURAL REVOLUTION 
 
 ## Tech Stack
 
@@ -31,19 +31,15 @@ Great Cultural Revolution
 A curated collection of useful resources and references.  
 ![Stars](https://img.shields.io/github/stars/gakkitamagoyaki/good-stuff?style=flat-square&color=58A6FF)
 
-> 一个精选的有用资源和参考资料集合。
-
 ### [SOEN-357-mini-project](https://github.com/gakkitamagoyaki/SOEN-357-mini-project)
 SOEN 357 mini project — Super App built with HTML.  
 ![Stars](https://img.shields.io/github/stars/gakkitamagoyaki/SOEN-357-mini-project?style=flat-square&color=58A6FF)
 
-> SOEN 357 迷你项目 — 使用 HTML 构建的 Super App。
 
 ### [vhdl](https://github.com/gakkitamagoyaki/vhdl)
 VHDL-related work and experiments.  
 ![Stars](https://img.shields.io/github/stars/gakkitamagoyaki/vhdl?style=flat-square&color=58A6FF)
 
-> VHDL 相关的工作和实验。
 
 ## Contribution Activity
 
